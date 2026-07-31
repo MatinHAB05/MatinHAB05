@@ -13,6 +13,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=MatinHAB05&label=Profile%20views&color=4FD1C5&style=flat-square" alt="profile views"/>
 
+<br>
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&layout=horizontal" alt="quote"/>
+
 </div>
 
 <br>
@@ -21,7 +24,7 @@
 
 I build backend systems and developer tooling — mostly in Go and Python. Right now I'm working on an apartment-management platform's API in Go/Gin, and a DSL that generates full API code from a data-model spec using Python and ANTLR4. I'm a CS student at Iran University of Science & Technology (GPA 19.05/20) and TA for Data Structures and Discrete Mathematics.
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E6B66,100:0F1419&height=3&width=1000" width="100%"/>
 
 ## Tech I work with
 
@@ -31,27 +34,25 @@ I build backend systems and developer tooling — mostly in Go and Python. Right
 <img src="https://skillicons.dev/icons?i=dotnet,django,mysql,postgres,redis,git,docker,linux&theme=dark" />
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E6B66,100:0F1419&height=3&width=1000" width="100%"/>
 
 ## Pinned projects
 
 <div align="center">
 <a href="https://github.com/MatinHAB05/Model-API-DSL-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatinHAB05&repo=Model-API-DSL-Generator&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatinHAB05&repo=Model-API-DSL-Generator&hide_border=true&bg_color=0F1419&title_color=4FD1C5&icon_color=4FD1C5&text_color=E6EDF3" />
 </a>
 <a href="https://github.com/MatinHAB05/apartment-manager-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatinHAB05&repo=apartment-manager-backend&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatinHAB05&repo=apartment-manager-backend&hide_border=true&bg_color=0F1419&title_color=4FD1C5&icon_color=4FD1C5&text_color=E6EDF3" />
 </a>
 <br>
 <a href="https://github.com/MatinHAB05/xv6-riscv-topfree">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatinHAB05&repo=xv6-riscv-topfree&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatinHAB05&repo=xv6-riscv-topfree&hide_border=true&bg_color=0F1419&title_color=4FD1C5&icon_color=4FD1C5&text_color=E6EDF3" />
 </a>
 <a href="https://github.com/MatinHAB05/Ap-2024-Project-Restaurant-Management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatinHAB05&repo=Ap-2024-Project-Restaurant-Management&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatinHAB05&repo=Ap-2024-Project-Restaurant-Management&hide_border=true&bg_color=0F1419&title_color=4FD1C5&icon_color=4FD1C5&text_color=E6EDF3" />
 </a>
 </div>
-
-<br>
 
 ## Teaching
 
@@ -59,17 +60,38 @@ I build backend systems and developer tooling — mostly in Go and Python. Right
 - Teaching Assistant, Discrete Mathematics — Dr. Hakami
 - Mentor, Introduction to Programming (Python) — Dr. Rafiei
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E6B66,100:0F1419&height=3&width=1000" width="100%"/>
 
 ## GitHub stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MatinHAB05&show_icons=true&theme=dark&hide_border=true&hide_title=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatinHAB05&theme=dark&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MatinHAB05&show_icons=true&hide_border=true&hide_title=true&bg_color=0F1419&title_color=4FD1C5&icon_color=4FD1C5&text_color=E6EDF3" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinHAB05&layout=compact&hide_border=true&bg_color=0F1419&title_color=4FD1C5&text_color=E6EDF3&langs_count=8" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatinHAB05&hide_border=true&background=0F1419&ring=4FD1C5&fire=E8A33D&currStreakLabel=4FD1C5&sideLabels=8B98A5&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B98A5" height="165"/>
 </div>
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=MatinHAB05&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatinHAB05&bg_color=0F1419&color=8B98A5&line=4FD1C5&point=4FD1C5&area=true&area_color=2E6B66&hide_border=true&hide_title=true" width="100%"/>
+</div>
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!-- keeping the contribution snake below - see the workflow file for setup -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatinHAB05/MatinHAB05/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatinHAB05/MatinHAB05/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/MatinHAB05/MatinHAB05/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+<!--END_SECTION:waka-->
+
 </div>
 
 <div align="center">
