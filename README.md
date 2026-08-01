@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2634,100:2E6B66&height=200&section=header&text=Matin%20Hasanali%20Baki&fontSize=46&fontColor=E6EDF3&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Go%20%26%20Python&descAlignY=58&descSize=18&descColor=8FE0D8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2634,100:2E6B66&height=160&section=header" width="100%"/>
+
+# Matin Hasanali Baki
+### Backend Developer · Go &amp; Python
 
 <a href="https://github.com/MatinHAB05"><img src="https://readme-typing-svg.demolab.com/?lines=Building+APIs+in+Go+%26+Python;Writing+a+DSL+that+generates+API+code;CS+student+%40+Iran+Univ.+of+Science+%26+Tech;TA+for+Data+Structures+%26+Discrete+Math&font=JetBrains+Mono&center=true&width=560&height=40&color=4FD1C5&vCenter=true&size=18&pause=1800" /></a>
 
@@ -96,9 +99,9 @@ I build backend systems and developer tooling — mostly in Go and Python. Right
 
 <div align="center">
 
-[![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](https://github.com/MatinHAB05?tab=achievements&achievement=pull-shark)
-[![Pair Extraordinaire](https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png)](https://github.com/MatinHAB05?tab=achievements&achievement=pair-extraordinaire)
-[![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)](https://github.com/MatinHAB05?tab=achievements&achievement=quickdraw)
+<a href="https://github.com/MatinHAB05?tab=achievements&achievement=pull-shark"><img width="90" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/MatinHAB05?tab=achievements&achievement=pair-extraordinaire"><img width="90" src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/MatinHAB05?tab=achievements&achievement=quickdraw"><img width="90" src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"/></a>
 
 </div>
 
