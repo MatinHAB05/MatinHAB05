@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:2E6B66&height=180&section=header" width="100%"/>
 
-# ⚡ Matin Hasanali Baki
+# Matin Hasanali Baki
 
 ### Backend Software Engineer · Distributed Systems & Concurrency
 
@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/matin-hasanali-baki"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="https://github.com/MatinHAB05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-  <a href="https://t.me/MHB2005"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;
+  <a href="https://t.me/MatinHAB05"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;
   <a href="mailto:matinhab05@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
   <a href="https://stackoverflow.com/users/23505499/matin-baki"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
 </p>
@@ -143,12 +143,12 @@ Hey there! 👋 I'm **Matin**, a Backend Software Engineer and Computer Science 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatinHAB05&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&title_color=4FD1C5&icon_color=4FD1C5&text_color=c9d1d9" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatinHAB05&hide_border=true&background=0d1117&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5&sideLabels=8B98A5&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8B98A5" height="165" alt="Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinHAB05&layout=compact&hide_border=true&bg_color=0d1117&title_color=4FD1C5&text_color=c9d1d9&langs_count=8&hide=html" height="165" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatinHAB05&hide_border=true&background=0d1117&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5&sideLabels=8B98A5&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8B98A5" height="165" alt="Streak Stats"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatinHAB05&bg_color=0F1419&color=8B98A5&line=4FD1C5&point=4FD1C5&area=true&area_color=2E6B66&hide_border=true&hide_title=true" width="100%"/>
 </div>
 
 <br>
