@@ -66,7 +66,7 @@ Hey there! 👋 I'm **Matin**, a Backend Software Engineer and Computer Science 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Matlab-E0600F?style=for-the-badge&logo=Matrix&logoColor=white" alt="Matlab"/>
-  <img src="https://img.shields.io/badge/VHDL-0099B0?style=for-the-badge&logo=Open Source Hardware&logoColor=white" alt="VHDL"/>
+  <img src="https://img.shields.io/badge/VHDL-0099B0?style=for-the-badge&logo=OpenSourceHardware&logoColor=white" alt="VHDL"/>
 </p>
 
 ### ⚙️ Frameworks & Architecture
